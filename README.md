@@ -1,4 +1,4 @@
-## Hey there, I'm Ayala 👋  
+## Hey there, I'm Vishal   
   
 
 <a href="www.linkedin.com/in/vishalpatel356/" target="_blank">
@@ -56,7 +56,7 @@ Excited to code and connect with you on this thrilling journey! 🚀🌟
 ## Github Stats  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=askarf&show_icons=true&count_private=true&hide_border=true)https://github-readme-stats.vercel.app/api?username=askarf&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishalpatel356&show_icons=true&count_private=true&hide_border=true)https://github-readme-stats.vercel.app/api?username=vishalpatel356&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 
 <br/>  

@@ -8,15 +8,7 @@
 
 ### About me:  
 
-Hey coding pals! 🌟 I'm a software enthusiast fueled by a perpetual hunger for learning and personal growth. 🌱
 
-Freshly minted from Actualize Bootcamp with a shiny certificate in full-stack web development, I've been on a solo coding adventure since January. My consignment web app, born as a school project, is sowly growing into a feature-packed powerhouse!! 🤍🚀🌐
-
-Whether it's JavaScript, React, or Ruby, I'm weaving magic with code and infusing creativity into every byte. 💻✨ My GitHub isn't just a code repository; it's a canvas where my projects come to life, and my growth journey unfolds. 📖💾
-
-Jump into my repositories, explore the coding chronicles, and join me as I navigate the dynamic realm of software development. 😁💻
-
-Excited to code and connect with you on this thrilling journey! 🚀🌟
 
 <br/>  
 

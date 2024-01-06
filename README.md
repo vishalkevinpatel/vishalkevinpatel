@@ -15,7 +15,7 @@
 
 ##  
 
-- 🔭 I’m currently working on [Capstone-Frontend]([https://github.com/vishalkevinpatel/mont-frontend])
+- 🔭 I’m currently working on -
   
 
 - 🌱 I’m currently honing skills in JavaScript, Python, Ruby on Rails, & React.js  
